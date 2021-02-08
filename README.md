@@ -29,6 +29,7 @@ After that, type in the .cfg file:
 Put in the following in between:
 
 menuentry 'OS-Name-Here' {
+
           multiboot /boot/kernel.bin
           boot
 }
